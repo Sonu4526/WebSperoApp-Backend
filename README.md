@@ -11,3 +11,4 @@ In the project directory, you can run:
 2. User Signup and Login functionally implemented.
 3. Jwt authorization implemented in APIs
 4. Proper user validation for Signup and SignIn.
+5. Error handlering also implemented
